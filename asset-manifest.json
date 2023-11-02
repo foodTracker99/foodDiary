@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/foodDiary/static/css/main.0f8fd636.css",
+    "main.css": "/foodDiary/static/css/main.8a3f14cc.css",
     "main.js": "/foodDiary/static/js/main.cf434be0.js",
     "static/js/787.f6cb440e.chunk.js": "/foodDiary/static/js/787.f6cb440e.chunk.js",
     "index.html": "/foodDiary/index.html",
-    "main.0f8fd636.css.map": "/foodDiary/static/css/main.0f8fd636.css.map",
+    "main.8a3f14cc.css.map": "/foodDiary/static/css/main.8a3f14cc.css.map",
     "main.cf434be0.js.map": "/foodDiary/static/js/main.cf434be0.js.map",
     "787.f6cb440e.chunk.js.map": "/foodDiary/static/js/787.f6cb440e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f8fd636.css",
+    "static/css/main.8a3f14cc.css",
     "static/js/main.cf434be0.js"
   ]
 }
